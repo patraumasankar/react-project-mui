@@ -1,8 +1,6 @@
 import React from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import { Navbar, Footer, Home, Login, Signup, About, Contact, Service, Blog } from './component';
-import './App.css'
-
 const App = () => {
   return (
     <div>
